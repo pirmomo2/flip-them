@@ -1,2 +1,2 @@
 # Flip them
-- given our friends the holy hand gesture by making them run `bun flip.js`
+- give your friends the holy hand gesture by making them run `bun flip.js`
